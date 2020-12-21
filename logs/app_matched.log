@@ -1,0 +1,792 @@
+INFO - cooking order:id:2a23c77f-3ee3-4a52-8810-93e73df4e887 name:Grilled Corn Salad prepttime:7
+INFO - cooking order:id:69ad8b1c-3218-4c41-aa42-5aca43ca4173 name:Brown Rice prepttime:14
+INFO - order is id:2a23c77f-3ee3-4a52-8810-93e73df4e887 name:Grilled Corn Salad prepttime:7
+INFO - courier order id:2a23c77f-3ee3-4a52-8810-93e73df4e887 name:Grilled Corn Salad prepttime:7
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 96985.311ms 	 average_order_wait_time 96985.311ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:8d6a4d1a-ca56-4567-b3aa-a1e3d20f8017 name:Orange Chicken prepttime:6
+INFO - order is id:69ad8b1c-3218-4c41-aa42-5aca43ca4173 name:Brown Rice prepttime:14
+INFO - courier order id:69ad8b1c-3218-4c41-aa42-5aca43ca4173 name:Brown Rice prepttime:14
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 162030.47ms 	 average_order_wait_time 129507.89050000001ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:e65ef8c8-d9e2-47cf-a6e2-ac976bcfdb9d name:Chunky Monkey prepttime:8
+INFO - order is id:8d6a4d1a-ca56-4567-b3aa-a1e3d20f8017 name:Orange Chicken prepttime:6
+INFO - courier order id:8d6a4d1a-ca56-4567-b3aa-a1e3d20f8017 name:Orange Chicken prepttime:6
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 184153.904ms 	 average_order_wait_time 147723.22833333333ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:3f0008f5-9429-4a16-ae44-f8f4256797ca name:Apples prepttime:5
+INFO - order is id:e65ef8c8-d9e2-47cf-a6e2-ac976bcfdb9d name:Chunky Monkey prepttime:8
+INFO - courier order id:e65ef8c8-d9e2-47cf-a6e2-ac976bcfdb9d name:Chunky Monkey prepttime:8
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 106197.757ms 	 average_order_wait_time 137341.8605ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:caf107cc-e6d6-421c-9991-8bcfcc15d5c5 name:Brown Rice prepttime:6
+INFO - order is id:3f0008f5-9429-4a16-ae44-f8f4256797ca name:Apples prepttime:5
+INFO - courier order id:3f0008f5-9429-4a16-ae44-f8f4256797ca name:Apples prepttime:5
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 147263.94999999998ms 	 average_order_wait_time 139326.2784ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:345cfefe-692e-4866-986e-99a18bedbf24 name:Burrito prepttime:11
+INFO - order is id:caf107cc-e6d6-421c-9991-8bcfcc15d5c5 name:Brown Rice prepttime:6
+INFO - courier order id:caf107cc-e6d6-421c-9991-8bcfcc15d5c5 name:Brown Rice prepttime:6
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 107300.23ms 	 average_order_wait_time 133988.60366666666ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:1a4d0e6d-e50e-4ec0-ad5d-0f33e6a724e6 name:Kale Salad prepttime:5
+INFO - order is id:345cfefe-692e-4866-986e-99a18bedbf24 name:Burrito prepttime:11
+INFO - courier order id:345cfefe-692e-4866-986e-99a18bedbf24 name:Burrito prepttime:11
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 166343.601ms 	 average_order_wait_time 138610.74614285713ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:66a2611c-9a93-4ccd-bb85-98f423247bf9 name:Cottage Cheese prepttime:11
+INFO - order is id:1a4d0e6d-e50e-4ec0-ad5d-0f33e6a724e6 name:Kale Salad prepttime:5
+INFO - courier order id:1a4d0e6d-e50e-4ec0-ad5d-0f33e6a724e6 name:Kale Salad prepttime:5
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 167434.399ms 	 average_order_wait_time 142213.70275ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:a8cfcb76-7f24-4420-a5ba-d46dd77bdffd name:Banana Split prepttime:4
+INFO - order is id:66a2611c-9a93-4ccd-bb85-98f423247bf9 name:Cottage Cheese prepttime:11
+INFO - courier order id:66a2611c-9a93-4ccd-bb85-98f423247bf9 name:Cottage Cheese prepttime:11
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 176478.028ms 	 average_order_wait_time 146020.85ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:58e9b5fe-3fde-4a27-8e98-682e58a4a65d name:McFlury prepttime:14
+INFO - order is id:a8cfcb76-7f24-4420-a5ba-d46dd77bdffd name:Banana Split prepttime:4
+INFO - courier order id:a8cfcb76-7f24-4420-a5ba-d46dd77bdffd name:Banana Split prepttime:4
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 99495.244ms 	 average_order_wait_time 141368.2894ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:2ec069e3-576f-48eb-869f-74a540ef840c name:Acai Bowl prepttime:12
+INFO - order is id:58e9b5fe-3fde-4a27-8e98-682e58a4a65d name:McFlury prepttime:14
+INFO - courier order id:58e9b5fe-3fde-4a27-8e98-682e58a4a65d name:McFlury prepttime:14
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 94488.311ms 	 average_order_wait_time 137106.47318181818ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:690b85f7-8c7d-4337-bd02-04e04454c826 name:Yogurt prepttime:6
+INFO - order is id:2ec069e3-576f-48eb-869f-74a540ef840c name:Acai Bowl prepttime:12
+INFO - courier order id:2ec069e3-576f-48eb-869f-74a540ef840c name:Acai Bowl prepttime:12
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 150468.82ms 	 average_order_wait_time 138220.00208333333ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a name:Chocolate Gelato prepttime:9
+INFO - order is id:690b85f7-8c7d-4337-bd02-04e04454c826 name:Yogurt prepttime:6
+INFO - courier order id:690b85f7-8c7d-4337-bd02-04e04454c826 name:Yogurt prepttime:6
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 101457.569ms 	 average_order_wait_time 135392.1226153846ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:c18e1242-0856-4203-a98c-7066ead3bd6b name:Cobb Salad prepttime:8
+INFO - order is id:972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a name:Chocolate Gelato prepttime:9
+INFO - courier order id:972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a name:Chocolate Gelato prepttime:9
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 65441.17799999999ms 	 average_order_wait_time 130395.62657142857ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:4cc9d503-4e0e-42a3-b200-87c785468df9 name:Coke prepttime:13
+INFO - order is id:c18e1242-0856-4203-a98c-7066ead3bd6b name:Cobb Salad prepttime:8
+INFO - courier order id:c18e1242-0856-4203-a98c-7066ead3bd6b name:Cobb Salad prepttime:8
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 81434.733ms 	 average_order_wait_time 127131.567ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:0a6537d7-9568-400e-9857-7aceb4e7347c name:Snow Cone prepttime:4
+INFO - order is id:4cc9d503-4e0e-42a3-b200-87c785468df9 name:Coke prepttime:13
+INFO - courier order id:4cc9d503-4e0e-42a3-b200-87c785468df9 name:Coke prepttime:13
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 56414.952999999994ms 	 average_order_wait_time 122711.77862499999ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:74e0893f-8544-4298-b507-9cf5ab847d83 name:Pad See Ew prepttime:3
+INFO - order is id:0a6537d7-9568-400e-9857-7aceb4e7347c name:Snow Cone prepttime:4
+INFO - courier order id:0a6537d7-9568-400e-9857-7aceb4e7347c name:Snow Cone prepttime:4
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 70394.595ms 	 average_order_wait_time 119634.29723529411ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:7a5ea4ed-e378-4354-8ab3-a09cf563f621 name:Chunky Monkey prepttime:13
+INFO - order is id:74e0893f-8544-4298-b507-9cf5ab847d83 name:Pad See Ew prepttime:3
+INFO - courier order id:74e0893f-8544-4298-b507-9cf5ab847d83 name:Pad See Ew prepttime:3
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 54384.822ms 	 average_order_wait_time 116009.32638888889ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:60fbe431-7f7f-46c5-8ecf-6a26ae898685 name:Beef Stew prepttime:8
+INFO - order is id:7a5ea4ed-e378-4354-8ab3-a09cf563f621 name:Chunky Monkey prepttime:13
+INFO - courier order id:7a5ea4ed-e378-4354-8ab3-a09cf563f621 name:Chunky Monkey prepttime:13
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 18364.547000000002ms 	 average_order_wait_time 110870.1274736842ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:2e7f4153-92cb-43e2-96f4-d77e2f25422b name:Cheese prepttime:12
+INFO - order is id:60fbe431-7f7f-46c5-8ecf-6a26ae898685 name:Beef Stew prepttime:8
+INFO - courier order id:60fbe431-7f7f-46c5-8ecf-6a26ae898685 name:Beef Stew prepttime:8
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 14355.483ms 	 average_order_wait_time 106044.39525ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:d4ead98f-a158-429c-9c0d-28ab0fa830a6 name:Spinach Omelet prepttime:3
+INFO - order is id:2e7f4153-92cb-43e2-96f4-d77e2f25422b name:Cheese prepttime:12
+INFO - courier order id:2e7f4153-92cb-43e2-96f4-d77e2f25422b name:Cheese prepttime:12
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 42336.305ms 	 average_order_wait_time 103010.67666666667ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:e868e485-c759-411b-b439-ca7086326bf6 name:Beef Hash prepttime:8
+INFO - order is id:d4ead98f-a158-429c-9c0d-28ab0fa830a6 name:Spinach Omelet prepttime:3
+INFO - courier order id:d4ead98f-a158-429c-9c0d-28ab0fa830a6 name:Spinach Omelet prepttime:3
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 63328.25ms 	 average_order_wait_time 101206.93ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:2bfc7ca9-d8ea-4625-9a03-6aa4b5fb635e name:Pork Chop prepttime:12
+INFO - order is id:e868e485-c759-411b-b439-ca7086326bf6 name:Beef Hash prepttime:8
+INFO - courier order id:e868e485-c759-411b-b439-ca7086326bf6 name:Beef Hash prepttime:8
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 0.0ms
+INFO - current_order_wait_time: 13308.04ms 	 average_order_wait_time 97385.23913043478ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:a9f8f42f-7a58-4629-8b66-1acbf362f3b8 name:Fresh Fruit prepttime:15
+INFO - order is id:2bfc7ca9-d8ea-4625-9a03-6aa4b5fb635e name:Pork Chop prepttime:12
+INFO - courier order id:2bfc7ca9-d8ea-4625-9a03-6aa4b5fb635e name:Pork Chop prepttime:12
+INFO - current_courier_wait_time: 3698.883ms 	 average_courier_wait_time 154.120125ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 93327.52083333333ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:6d2c9eb3-6ff8-408a-a60d-e60eaa467dae name:Cranberry Salad prepttime:14
+INFO - order is id:a9f8f42f-7a58-4629-8b66-1acbf362f3b8 name:Fresh Fruit prepttime:15
+INFO - courier order id:a9f8f42f-7a58-4629-8b66-1acbf362f3b8 name:Fresh Fruit prepttime:15
+INFO - current_courier_wait_time: 51719.95ms 	 average_courier_wait_time 2216.75332ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 89594.42ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:916ddba3-9c25-4065-8a90-ecf5c40c8394 name:Fudge Ice Cream Cake prepttime:3
+INFO - order is id:6d2c9eb3-6ff8-408a-a60d-e60eaa467dae name:Cranberry Salad prepttime:14
+INFO - courier order id:6d2c9eb3-6ff8-408a-a60d-e60eaa467dae name:Cranberry Salad prepttime:14
+INFO - current_courier_wait_time: 0.0ms 	 average_courier_wait_time 2131.493576923077ms
+INFO - current_order_wait_time: 10258.488ms 	 average_order_wait_time 86543.038ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:23f5cb3a-fa51-49ad-9e29-83e98d6e7d6f name:Mint Chocolate Ice Cream prepttime:3
+INFO - order is id:916ddba3-9c25-4065-8a90-ecf5c40c8394 name:Fudge Ice Cream Cake prepttime:3
+INFO - courier order id:916ddba3-9c25-4065-8a90-ecf5c40c8394 name:Fudge Ice Cream Cake prepttime:3
+INFO - current_courier_wait_time: 53749.812ms 	 average_courier_wait_time 4043.283148148148ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 83337.7402962963ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:c700ab30-d7bd-4e45-aafb-4329876c716c name:Vegan Pizza prepttime:10
+INFO - order is id:23f5cb3a-fa51-49ad-9e29-83e98d6e7d6f name:Mint Chocolate Ice Cream prepttime:3
+INFO - courier order id:23f5cb3a-fa51-49ad-9e29-83e98d6e7d6f name:Mint Chocolate Ice Cream prepttime:3
+INFO - current_courier_wait_time: 49766.252ms 	 average_courier_wait_time 5676.246321428571ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 80361.39242857143ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:cf0932a9-533c-4603-bb1e-512c6e697b92 name:Orange Chicken prepttime:15
+INFO - order is id:c700ab30-d7bd-4e45-aafb-4329876c716c name:Vegan Pizza prepttime:10
+INFO - courier order id:c700ab30-d7bd-4e45-aafb-4329876c716c name:Vegan Pizza prepttime:10
+INFO - current_courier_wait_time: 22775.527000000002ms 	 average_courier_wait_time 6265.876689655172ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 77590.30993103448ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:ed05dafe-d928-4f1a-856d-1dab3868acbd name:MeatLoaf prepttime:7
+INFO - order is id:cf0932a9-533c-4603-bb1e-512c6e697b92 name:Orange Chicken prepttime:15
+INFO - courier order id:cf0932a9-533c-4603-bb1e-512c6e697b92 name:Orange Chicken prepttime:15
+INFO - current_courier_wait_time: 72795.93800000001ms 	 average_courier_wait_time 8483.5454ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 75003.96626666667ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:53f012e3-da55-4314-b2e6-28e63f0418ad name:Milk prepttime:5
+INFO - order is id:ed05dafe-d928-4f1a-856d-1dab3868acbd name:MeatLoaf prepttime:7
+INFO - courier order id:ed05dafe-d928-4f1a-856d-1dab3868acbd name:MeatLoaf prepttime:7
+INFO - current_courier_wait_time: 93806.70499999999ms 	 average_courier_wait_time 11235.905387096775ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 72584.48348387096ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:5dd79771-4536-4eaa-b64c-63ac606f1357 name:Pastrami Sandwich prepttime:8
+INFO - order is id:53f012e3-da55-4314-b2e6-28e63f0418ad name:Milk prepttime:5
+INFO - courier order id:53f012e3-da55-4314-b2e6-28e63f0418ad name:Milk prepttime:5
+INFO - current_courier_wait_time: 73822.01299999999ms 	 average_courier_wait_time 13191.721249999999ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 70316.218375ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:f84d8263-7aae-4254-85b7-27865ffd76b7 name:Arugula prepttime:3
+INFO - order is id:5dd79771-4536-4eaa-b64c-63ac606f1357 name:Pastrami Sandwich prepttime:8
+INFO - courier order id:5dd79771-4536-4eaa-b64c-63ac606f1357 name:Pastrami Sandwich prepttime:8
+INFO - current_courier_wait_time: 35833.301ms 	 average_courier_wait_time 13877.829727272727ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 68185.42387878787ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:f7074980-3424-43d4-9166-f495077a273e name:Pickles prepttime:5
+INFO - order is id:f84d8263-7aae-4254-85b7-27865ffd76b7 name:Arugula prepttime:3
+INFO - courier order id:f84d8263-7aae-4254-85b7-27865ffd76b7 name:Arugula prepttime:3
+INFO - current_courier_wait_time: 94852.94ms 	 average_courier_wait_time 16259.450617647059ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 66179.97023529412ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:dcafe7ca-f7a7-4262-9b14-ab19729b2055 name:Chicken prepttime:8
+INFO - order is id:f7074980-3424-43d4-9166-f495077a273e name:Pickles prepttime:5
+INFO - courier order id:f7074980-3424-43d4-9166-f495077a273e name:Pickles prepttime:5
+INFO - current_courier_wait_time: 86864.065ms 	 average_courier_wait_time 18276.725314285715ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 64289.11394285714ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:614e4f4d-b2f4-4b60-9421-238f61affe20 name:Cookie Dough prepttime:9
+INFO - order is id:dcafe7ca-f7a7-4262-9b14-ab19729b2055 name:Chicken prepttime:8
+INFO - courier order id:dcafe7ca-f7a7-4262-9b14-ab19729b2055 name:Chicken prepttime:8
+INFO - current_courier_wait_time: 88883.62ms 	 average_courier_wait_time 20238.027944444442ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 62503.305222222225ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:d2d2d948-f019-4806-bb7e-bb2172bd75d9 name:Hamburger prepttime:6
+INFO - order is id:614e4f4d-b2f4-4b60-9421-238f61affe20 name:Cookie Dough prepttime:9
+INFO - courier order id:614e4f4d-b2f4-4b60-9421-238f61affe20 name:Cookie Dough prepttime:9
+INFO - current_courier_wait_time: 78893.891ms 	 average_courier_wait_time 21823.32154054054ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 60814.0267027027ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:8275f014-ed83-4554-b0ff-0dbdc24e57ad name:French Fries prepttime:6
+INFO - order is id:d2d2d948-f019-4806-bb7e-bb2172bd75d9 name:Hamburger prepttime:6
+INFO - courier order id:d2d2d948-f019-4806-bb7e-bb2172bd75d9 name:Hamburger prepttime:6
+INFO - current_courier_wait_time: 151910.027ms 	 average_courier_wait_time 25246.655894736843ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 59213.657578947365ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:9687809b-8f4b-4a6f-be3f-6e41e4ced3ed name:Ice prepttime:5
+INFO - order is id:8275f014-ed83-4554-b0ff-0dbdc24e57ad name:French Fries prepttime:6
+INFO - courier order id:8275f014-ed83-4554-b0ff-0dbdc24e57ad name:French Fries prepttime:6
+INFO - current_courier_wait_time: 155918.20799999998ms 	 average_courier_wait_time 28597.20851282051ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 57695.35866666667ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:e537a1b8-1505-49ae-a71e-a3ab80e8b606 name:Carne Asada prepttime:8
+INFO - order is id:9687809b-8f4b-4a6f-be3f-6e41e4ced3ed name:Ice prepttime:5
+INFO - courier order id:9687809b-8f4b-4a6f-be3f-6e41e4ced3ed name:Ice prepttime:5
+INFO - current_courier_wait_time: 111939.59099999999ms 	 average_courier_wait_time 30680.768075ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 56252.9747ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:3aaccfce-3dbe-4967-a2fb-b6c06b4de61d name:Sherbet prepttime:6
+INFO - order is id:e537a1b8-1505-49ae-a71e-a3ab80e8b606 name:Carne Asada prepttime:8
+INFO - courier order id:e537a1b8-1505-49ae-a71e-a3ab80e8b606 name:Carne Asada prepttime:8
+INFO - current_courier_wait_time: 103949.708ms 	 average_courier_wait_time 32467.8153902439ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 54880.95092682927ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:1b56ee15-70e7-443e-96cb-0479e9d46381 name:Orange Sorbet prepttime:3
+INFO - order is id:3aaccfce-3dbe-4967-a2fb-b6c06b4de61d name:Sherbet prepttime:6
+INFO - courier order id:3aaccfce-3dbe-4967-a2fb-b6c06b4de61d name:Sherbet prepttime:6
+INFO - current_courier_wait_time: 169968.042ms 	 average_courier_wait_time 35741.63030952381ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 53574.26161904762ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:51c5017b-f812-40ac-8d68-87aab3fbab6a name:Frosty prepttime:13
+INFO - order is id:1b56ee15-70e7-443e-96cb-0479e9d46381 name:Orange Sorbet prepttime:3
+INFO - courier order id:1b56ee15-70e7-443e-96cb-0479e9d46381 name:Orange Sorbet prepttime:3
+INFO - current_courier_wait_time: 149977.28900000002ms 	 average_courier_wait_time 38398.27353488372ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 52328.348558139536ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:9748651e-c3f8-4c4a-9de9-5360467c86a2 name:Fresh Bread prepttime:10
+INFO - order is id:51c5017b-f812-40ac-8d68-87aab3fbab6a name:Frosty prepttime:13
+INFO - courier order id:51c5017b-f812-40ac-8d68-87aab3fbab6a name:Frosty prepttime:13
+INFO - current_courier_wait_time: 177993.821ms 	 average_courier_wait_time 41570.899613636364ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 51139.06790909091ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:87441694-ff97-4d1b-89e3-c4b0b1fd041e name:Icy prepttime:5
+INFO - order is id:9748651e-c3f8-4c4a-9de9-5360467c86a2 name:Fresh Bread prepttime:10
+INFO - courier order id:9748651e-c3f8-4c4a-9de9-5360467c86a2 name:Fresh Bread prepttime:10
+INFO - current_courier_wait_time: 189003.89899999998ms 	 average_courier_wait_time 44847.18848888889ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 50002.64417777778ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:3713d8af-e6a0-4c11-966c-f26786dc602c name:Push Pop prepttime:15
+INFO - order is id:87441694-ff97-4d1b-89e3-c4b0b1fd041e name:Icy prepttime:5
+INFO - courier order id:87441694-ff97-4d1b-89e3-c4b0b1fd041e name:Icy prepttime:5
+INFO - current_courier_wait_time: 144023.415ms 	 average_courier_wait_time 47003.193413043475ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 48915.63017391304ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:20343dea-8856-4717-9be9-be1b37d4791f name:Pasta prepttime:14
+INFO - order is id:3713d8af-e6a0-4c11-966c-f26786dc602c name:Push Pop prepttime:15
+INFO - courier order id:3713d8af-e6a0-4c11-966c-f26786dc602c name:Push Pop prepttime:15
+INFO - current_courier_wait_time: 221042.12999999998ms 	 average_courier_wait_time 50706.14951063829ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 47874.872085106384ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:098604b5-a141-4a5f-a2e3-0b653515cc42 name:Chicken Nuggets prepttime:4
+INFO - order is id:20343dea-8856-4717-9be9-be1b37d4791f name:Pasta prepttime:14
+INFO - courier order id:20343dea-8856-4717-9be9-be1b37d4791f name:Pasta prepttime:14
+INFO - current_courier_wait_time: 185052.679ms 	 average_courier_wait_time 53505.035541666664ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 46877.47891666667ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:a5697bad-48d4-46fd-b3bc-64ef2485907a name:Ice Cream Sandwich prepttime:7
+INFO - order is id:098604b5-a141-4a5f-a2e3-0b653515cc42 name:Chicken Nuggets prepttime:4
+INFO - courier order id:098604b5-a141-4a5f-a2e3-0b653515cc42 name:Chicken Nuggets prepttime:4
+INFO - current_courier_wait_time: 179069.628ms 	 average_courier_wait_time 56067.57824489796ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 45920.79567346939ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:e09f9282-8e05-48a7-8e6e-e23937383735 name:Taco prepttime:12
+INFO - order is id:a5697bad-48d4-46fd-b3bc-64ef2485907a name:Ice Cream Sandwich prepttime:7
+INFO - courier order id:a5697bad-48d4-46fd-b3bc-64ef2485907a name:Ice Cream Sandwich prepttime:7
+INFO - current_courier_wait_time: 221077.91ms 	 average_courier_wait_time 59367.78488ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 45002.379759999996ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:9df6bbc7-55ee-4f67-8dd1-a9f5ccc56355 name:Tomato Soup prepttime:12
+INFO - order is id:e09f9282-8e05-48a7-8e6e-e23937383735 name:Taco prepttime:12
+INFO - courier order id:e09f9282-8e05-48a7-8e6e-e23937383735 name:Taco prepttime:12
+INFO - current_courier_wait_time: 220099.323ms 	 average_courier_wait_time 62519.38366666667ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 44119.980156862744ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:a2b13869-6b7e-4e35-8e11-fa9889d24073 name:Vanilla Ice Cream prepttime:15
+INFO - order is id:9df6bbc7-55ee-4f67-8dd1-a9f5ccc56355 name:Tomato Soup prepttime:12
+INFO - courier order id:9df6bbc7-55ee-4f67-8dd1-a9f5ccc56355 name:Tomato Soup prepttime:12
+INFO - current_courier_wait_time: 289108.121ms 	 average_courier_wait_time 66876.85938461538ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 43271.519ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:0522c2ec-0242-45e7-8542-f3e98c1384b9 name:Poppers prepttime:8
+INFO - order is id:a2b13869-6b7e-4e35-8e11-fa9889d24073 name:Vanilla Ice Cream prepttime:15
+INFO - courier order id:a2b13869-6b7e-4e35-8e11-fa9889d24073 name:Vanilla Ice Cream prepttime:15
+INFO - current_courier_wait_time: 229128.489ms 	 average_courier_wait_time 69938.21088679245ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 42455.07524528302ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:aba0fc48-ec05-422f-aad4-8b8ec4de636d name:Popsicle prepttime:13
+INFO - order is id:0522c2ec-0242-45e7-8542-f3e98c1384b9 name:Poppers prepttime:8
+INFO - courier order id:0522c2ec-0242-45e7-8542-f3e98c1384b9 name:Poppers prepttime:8
+INFO - current_courier_wait_time: 253139.793ms 	 average_courier_wait_time 73330.83277777777ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 41668.87014814815ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:68515b89-96bf-48b6-a07c-68cf17ca3c25 name:Strawberries prepttime:11
+INFO - order is id:aba0fc48-ec05-422f-aad4-8b8ec4de636d name:Popsicle prepttime:13
+INFO - courier order id:aba0fc48-ec05-422f-aad4-8b8ec4de636d name:Popsicle prepttime:13
+INFO - current_courier_wait_time: 314160.605ms 	 average_courier_wait_time 77709.55590909091ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 40911.25432727273ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:4d308771-a0d6-46e7-8ff1-679ddc1d1aa4 name:Cheese Pizza prepttime:10
+INFO - order is id:68515b89-96bf-48b6-a07c-68cf17ca3c25 name:Strawberries prepttime:11
+INFO - courier order id:68515b89-96bf-48b6-a07c-68cf17ca3c25 name:Strawberries prepttime:11
+INFO - current_courier_wait_time: 295171.602ms 	 average_courier_wait_time 81592.80673214285ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 40180.696214285716ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:78b92574-49cd-4995-b5d0-635b3ced5a18 name:Pressed Juice prepttime:14
+INFO - order is id:4d308771-a0d6-46e7-8ff1-679ddc1d1aa4 name:Cheese Pizza prepttime:10
+INFO - courier order id:4d308771-a0d6-46e7-8ff1-679ddc1d1aa4 name:Cheese Pizza prepttime:10
+INFO - current_courier_wait_time: 267189.249ms 	 average_courier_wait_time 84848.88466666666ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 39475.771719298245ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:1fab9088-d99d-47ee-acf5-d0f0851738e4 name:Coconut prepttime:14
+INFO - order is id:78b92574-49cd-4995-b5d0-635b3ced5a18 name:Pressed Juice prepttime:14
+INFO - courier order id:78b92574-49cd-4995-b5d0-635b3ced5a18 name:Pressed Juice prepttime:14
+INFO - current_courier_wait_time: 363208.643ms 	 average_courier_wait_time 89648.19084482758ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 38795.15496551724ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:d7864cd5-f557-4c3e-93d9-b3fb6bb4a37b name:Onion Rings prepttime:9
+INFO - order is id:1fab9088-d99d-47ee-acf5-d0f0851738e4 name:Coconut prepttime:14
+INFO - courier order id:1fab9088-d99d-47ee-acf5-d0f0851738e4 name:Coconut prepttime:14
+INFO - current_courier_wait_time: 316217.174ms 	 average_courier_wait_time 93488.34310169492ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 38137.60996610169ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:5f06be90-beac-4a51-a871-f8e324d38c3c name:Fish Tacos prepttime:10
+INFO - order is id:d7864cd5-f557-4c3e-93d9-b3fb6bb4a37b name:Onion Rings prepttime:9
+INFO - courier order id:d7864cd5-f557-4c3e-93d9-b3fb6bb4a37b name:Onion Rings prepttime:9
+INFO - current_courier_wait_time: 358234.386ms 	 average_courier_wait_time 97900.77715ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 37501.983133333335ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:90367105-ec26-41d8-a4a2-6c474d3f703b name:Pot Stickers prepttime:3
+INFO - order is id:5f06be90-beac-4a51-a871-f8e324d38c3c name:Fish Tacos prepttime:10
+INFO - courier order id:5f06be90-beac-4a51-a871-f8e324d38c3c name:Fish Tacos prepttime:10
+INFO - current_courier_wait_time: 328244.995ms 	 average_courier_wait_time 101676.91186885246ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 36887.19652459017ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:05ef2197-5e9a-446b-825e-4d169bdf5670 name:Kombucha prepttime:6
+INFO - order is id:90367105-ec26-41d8-a4a2-6c474d3f703b name:Pot Stickers prepttime:3
+INFO - courier order id:90367105-ec26-41d8-a4a2-6c474d3f703b name:Pot Stickers prepttime:3
+INFO - current_courier_wait_time: 367264.19399999996ms 	 average_courier_wait_time 105960.57770967741ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 36292.24174193548ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:41330835-9221-483a-924f-08c7f664d656 name:Mixed Greens prepttime:13
+INFO - order is id:05ef2197-5e9a-446b-825e-4d169bdf5670 name:Kombucha prepttime:6
+INFO - courier order id:05ef2197-5e9a-446b-825e-4d169bdf5670 name:Kombucha prepttime:6
+INFO - current_courier_wait_time: 391274.43299999996ms 	 average_courier_wait_time 110489.36906349206ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 35716.17441269841ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:51754609-3f89-487b-9888-bac0a65f86e2 name:Sushi prepttime:8
+INFO - order is id:41330835-9221-483a-924f-08c7f664d656 name:Mixed Greens prepttime:13
+INFO - courier order id:41330835-9221-483a-924f-08c7f664d656 name:Mixed Greens prepttime:13
+INFO - current_courier_wait_time: 364296.138ms 	 average_courier_wait_time 114455.09982812499ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 35158.1091875ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:c052077c-687d-4f24-b2e1-75edeee1186a name:Kebab prepttime:10
+INFO - order is id:51754609-3f89-487b-9888-bac0a65f86e2 name:Sushi prepttime:8
+INFO - courier order id:51754609-3f89-487b-9888-bac0a65f86e2 name:Sushi prepttime:8
+INFO - current_courier_wait_time: 348308.031ms 	 average_courier_wait_time 118052.83723076923ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 34617.2152ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:1b481a3e-84eb-4532-bd29-47f04e3e7adc name:Mac & Cheese prepttime:12
+INFO - order is id:c052077c-687d-4f24-b2e1-75edeee1186a name:Kebab prepttime:10
+INFO - courier order id:c052077c-687d-4f24-b2e1-75edeee1186a name:Kebab prepttime:10
+INFO - current_courier_wait_time: 370324.686ms 	 average_courier_wait_time 121875.13796969697ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 34092.711939393936ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:b5d9491a-54b7-4916-a379-fed69d5d180d name:Corn Dog prepttime:11
+INFO - order is id:1b481a3e-84eb-4532-bd29-47f04e3e7adc name:Mac & Cheese prepttime:12
+INFO - courier order id:1b481a3e-84eb-4532-bd29-47f04e3e7adc name:Mac & Cheese prepttime:12
+INFO - current_courier_wait_time: 400343.571ms 	 average_courier_wait_time 126031.38323880597ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 33583.86549253731ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:7bdf9af2-d90e-44e2-9c6c-1ff7b5121133 name:Grilled Corn Salad prepttime:7
+INFO - order is id:b5d9491a-54b7-4916-a379-fed69d5d180d name:Corn Dog prepttime:11
+INFO - courier order id:b5d9491a-54b7-4916-a379-fed69d5d180d name:Corn Dog prepttime:11
+INFO - current_courier_wait_time: 404353.339ms 	 average_courier_wait_time 130124.35317647058ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 33089.98511764706ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:4b5793f3-2af5-4ac3-816a-7f9c6f91483c name:Pistachio Ice Cream prepttime:8
+INFO - order is id:7bdf9af2-d90e-44e2-9c6c-1ff7b5121133 name:Grilled Corn Salad prepttime:7
+INFO - courier order id:7bdf9af2-d90e-44e2-9c6c-1ff7b5121133 name:Grilled Corn Salad prepttime:7
+INFO - current_courier_wait_time: 428374.267ms 	 average_courier_wait_time 134446.81569565216ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 32610.42011594203ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:160ccc3a-af83-43e0-af0b-6a889aea7339 name:Strawberyy Banana Split prepttime:9
+INFO - order is id:4b5793f3-2af5-4ac3-816a-7f9c6f91483c name:Pistachio Ice Cream prepttime:8
+INFO - courier order id:4b5793f3-2af5-4ac3-816a-7f9c6f91483c name:Pistachio Ice Cream prepttime:8
+INFO - current_courier_wait_time: 465383.244ms 	 average_courier_wait_time 139174.47895714286ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 32144.55697142857ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:3b9da9f3-2465-4fbc-84c5-5ecb9bd132b1 name:McFlury prepttime:13
+INFO - order is id:160ccc3a-af83-43e0-af0b-6a889aea7339 name:Strawberyy Banana Split prepttime:9
+INFO - courier order id:160ccc3a-af83-43e0-af0b-6a889aea7339 name:Strawberyy Banana Split prepttime:9
+INFO - current_courier_wait_time: 442402.61299999995ms 	 average_courier_wait_time 143445.29774647887ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 31691.816732394367ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:e6b72c73-fa53-4f2c-a004-0b60ba7b3be9 name:Acai Bowl prepttime:9
+INFO - order is id:3b9da9f3-2465-4fbc-84c5-5ecb9bd132b1 name:McFlury prepttime:13
+INFO - courier order id:3b9da9f3-2465-4fbc-84c5-5ecb9bd132b1 name:McFlury prepttime:13
+INFO - current_courier_wait_time: 436409.53500000003ms 	 average_courier_wait_time 147514.24548611112ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 31251.652611111112ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:4546646c-3ca5-4da6-9c60-312a897a6907 name:Yogurt prepttime:8
+INFO - order is id:e6b72c73-fa53-4f2c-a004-0b60ba7b3be9 name:Acai Bowl prepttime:9
+INFO - courier order id:e6b72c73-fa53-4f2c-a004-0b60ba7b3be9 name:Acai Bowl prepttime:9
+INFO - current_courier_wait_time: 456428.517ms 	 average_courier_wait_time 151745.94783561645ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 30823.54778082192ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:8ea031b3-6545-4140-9dee-745268d7b877 name:Chocolate Gelato prepttime:9
+INFO - order is id:4546646c-3ca5-4da6-9c60-312a897a6907 name:Yogurt prepttime:8
+INFO - courier order id:4546646c-3ca5-4da6-9c60-312a897a6907 name:Yogurt prepttime:8
+INFO - current_courier_wait_time: 479438.86500000005ms 	 average_courier_wait_time 156174.2305ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 30407.01335135135ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:24f3e17b-eba0-409a-8630-463cb05d89c3 name:Cobb Salad prepttime:3
+INFO - order is id:8ea031b3-6545-4140-9dee-745268d7b877 name:Chocolate Gelato prepttime:9
+INFO - courier order id:8ea031b3-6545-4140-9dee-745268d7b877 name:Chocolate Gelato prepttime:9
+INFO - current_courier_wait_time: 451457.095ms 	 average_courier_wait_time 160111.33536ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 30001.586506666667ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:def3f65e-6ffb-4715-8561-ace9d312ddc5 name:Cottage Cheese prepttime:3
+INFO - order is id:24f3e17b-eba0-409a-8630-463cb05d89c3 name:Cobb Salad prepttime:3
+INFO - courier order id:24f3e17b-eba0-409a-8630-463cb05d89c3 name:Cobb Salad prepttime:3
+INFO - current_courier_wait_time: 474466.86199999996ms 	 average_courier_wait_time 164247.5922894737ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 29606.828789473682ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:2c772706-189c-4ec4-80ad-06ea17f21f11 name:Coke prepttime:12
+INFO - order is id:def3f65e-6ffb-4715-8561-ace9d312ddc5 name:Cottage Cheese prepttime:3
+INFO - courier order id:def3f65e-6ffb-4715-8561-ace9d312ddc5 name:Cottage Cheese prepttime:3
+INFO - current_courier_wait_time: 530488.699ms 	 average_courier_wait_time 169003.9702987013ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 29222.32451948052ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:a0023411-c19d-4723-b6d1-6b8c8ff1b417 name:Snow Cone prepttime:15
+INFO - order is id:2c772706-189c-4ec4-80ad-06ea17f21f11 name:Coke prepttime:12
+INFO - courier order id:2c772706-189c-4ec4-80ad-06ea17f21f11 name:Coke prepttime:12
+INFO - current_courier_wait_time: 464499.527ms 	 average_courier_wait_time 172792.37487179486ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 28847.679333333333ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:46a4e47d-ccc1-4c88-a006-83930521899c name:Pad See Ew prepttime:10
+INFO - order is id:a0023411-c19d-4723-b6d1-6b8c8ff1b417 name:Snow Cone prepttime:15
+INFO - courier order id:a0023411-c19d-4723-b6d1-6b8c8ff1b417 name:Snow Cone prepttime:15
+INFO - current_courier_wait_time: 477517.131ms 	 average_courier_wait_time 176649.65026582277ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 28482.51883544304ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:848dfc63-eab6-48b7-a2db-04d13190ce8c name:Beef Stew prepttime:5
+INFO - order is id:46a4e47d-ccc1-4c88-a006-83930521899c name:Pad See Ew prepttime:10
+INFO - courier order id:46a4e47d-ccc1-4c88-a006-83930521899c name:Pad See Ew prepttime:10
+INFO - current_courier_wait_time: 578528.477ms 	 average_courier_wait_time 181673.1356ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 28126.48735ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:42951124-c574-45a0-bddf-25e702c65914 name:Cheese prepttime:9
+INFO - order is id:848dfc63-eab6-48b7-a2db-04d13190ce8c name:Beef Stew prepttime:5
+INFO - courier order id:848dfc63-eab6-48b7-a2db-04d13190ce8c name:Beef Stew prepttime:5
+INFO - current_courier_wait_time: 495544.867ms 	 average_courier_wait_time 185548.09524691358ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 27779.246765432097ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:df726ab4-a999-46b5-8e31-4a1bd523fcb9 name:Spinach Omelet prepttime:15
+INFO - order is id:42951124-c574-45a0-bddf-25e702c65914 name:Cheese prepttime:9
+INFO - courier order id:42951124-c574-45a0-bddf-25e702c65914 name:Cheese prepttime:9
+INFO - current_courier_wait_time: 584560.8099999999ms 	 average_courier_wait_time 190414.10396341464ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 27440.475463414634ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:5bb755b9-e6a8-4932-9139-bc04fafbc240 name:Beef Hash prepttime:13
+INFO - order is id:df726ab4-a999-46b5-8e31-4a1bd523fcb9 name:Spinach Omelet prepttime:15
+INFO - courier order id:df726ab4-a999-46b5-8e31-4a1bd523fcb9 name:Spinach Omelet prepttime:15
+INFO - current_courier_wait_time: 553571.931ms 	 average_courier_wait_time 194789.49946987952ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 27109.867325301206ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:58dbdb26-670c-4dac-b72c-21152f5d62e7 name:Pork Chop prepttime:10
+INFO - order is id:5bb755b9-e6a8-4932-9139-bc04fafbc240 name:Beef Hash prepttime:13
+INFO - courier order id:5bb755b9-e6a8-4932-9139-bc04fafbc240 name:Beef Hash prepttime:13
+INFO - current_courier_wait_time: 589592.352ms 	 average_courier_wait_time 199489.53342857142ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 26787.13080952381ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:4ed428d6-f247-451a-aebf-c5157b2eb502 name:Kale Salad prepttime:14
+INFO - order is id:58dbdb26-670c-4dac-b72c-21152f5d62e7 name:Pork Chop prepttime:10
+INFO - courier order id:58dbdb26-670c-4dac-b72c-21152f5d62e7 name:Pork Chop prepttime:10
+INFO - current_courier_wait_time: 598602.035ms 	 average_courier_wait_time 204184.97462352942ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 26471.988094117645ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:62e667ee-a86d-4be2-97f6-a6af60183e88 name:Fresh Fruit prepttime:6
+INFO - order is id:4ed428d6-f247-451a-aebf-c5157b2eb502 name:Kale Salad prepttime:14
+INFO - courier order id:4ed428d6-f247-451a-aebf-c5157b2eb502 name:Kale Salad prepttime:14
+INFO - current_courier_wait_time: 579620.806ms 	 average_courier_wait_time 208550.50754651162ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 26164.174279069768ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:df4e3e19-55d2-4131-8ab0-3563b44f8291 name:Cranberry Salad prepttime:9
+INFO - order is id:62e667ee-a86d-4be2-97f6-a6af60183e88 name:Fresh Fruit prepttime:6
+INFO - courier order id:62e667ee-a86d-4be2-97f6-a6af60183e88 name:Fresh Fruit prepttime:6
+INFO - current_courier_wait_time: 615631.127ms 	 average_courier_wait_time 213229.5951264368ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 25863.43664367816ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:44e6ea89-f11c-414d-aa72-7c10641eff8d name:Fudge Ice Cream Cake prepttime:15
+INFO - order is id:df4e3e19-55d2-4131-8ab0-3563b44f8291 name:Cranberry Salad prepttime:9
+INFO - courier order id:df4e3e19-55d2-4131-8ab0-3563b44f8291 name:Cranberry Salad prepttime:9
+INFO - current_courier_wait_time: 594650.3169999999ms 	 average_courier_wait_time 217563.92151136365ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 25569.533954545455ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:48465fc7-d534-4b9b-b919-63e5beebd301 name:Mint Chocolate Ice Cream prepttime:10
+INFO - order is id:44e6ea89-f11c-414d-aa72-7c10641eff8d name:Fudge Ice Cream Cake prepttime:15
+INFO - courier order id:44e6ea89-f11c-414d-aa72-7c10641eff8d name:Fudge Ice Cream Cake prepttime:15
+INFO - current_courier_wait_time: 585656.517ms 	 average_courier_wait_time 221699.7933707865ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 25282.23582022472ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:fb850bd3-728f-4118-a097-2bcf3a12c239 name:Vegan Pizza prepttime:8
+INFO - order is id:48465fc7-d534-4b9b-b919-63e5beebd301 name:Mint Chocolate Ice Cream prepttime:10
+INFO - courier order id:48465fc7-d534-4b9b-b919-63e5beebd301 name:Mint Chocolate Ice Cream prepttime:10
+INFO - current_courier_wait_time: 686676.237ms 	 average_courier_wait_time 226866.1983ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 25001.32208888889ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:68e83bf6-bdee-4192-8905-40140b421bc6 name:MeatLoaf prepttime:10
+INFO - order is id:fb850bd3-728f-4118-a097-2bcf3a12c239 name:Vegan Pizza prepttime:8
+INFO - courier order id:fb850bd3-728f-4118-a097-2bcf3a12c239 name:Vegan Pizza prepttime:8
+INFO - current_courier_wait_time: 668684.963ms 	 average_courier_wait_time 231721.34956043956ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 24726.582285714285ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:0d74c9f0-4fd5-4606-a1dc-019d9ab52af6 name:Milk prepttime:15
+INFO - order is id:68e83bf6-bdee-4192-8905-40140b421bc6 name:MeatLoaf prepttime:10
+INFO - courier order id:68e83bf6-bdee-4192-8905-40140b421bc6 name:MeatLoaf prepttime:10
+INFO - current_courier_wait_time: 616705.74ms 	 average_courier_wait_time 235905.9625ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 24457.81508695652ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:1b9a920d-2880-44a3-abba-20903f2690d6 name:Pastrami Sandwich prepttime:3
+INFO - order is id:0d74c9f0-4fd5-4606-a1dc-019d9ab52af6 name:Milk prepttime:15
+INFO - courier order id:0d74c9f0-4fd5-4606-a1dc-019d9ab52af6 name:Milk prepttime:15
+INFO - current_courier_wait_time: 684725.958ms 	 average_courier_wait_time 240731.98395698925ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 24194.82782795699ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:c5ec5a4b-818e-4478-8956-019259be4168 name:Arugula prepttime:13
+INFO - order is id:1b9a920d-2880-44a3-abba-20903f2690d6 name:Pastrami Sandwich prepttime:3
+INFO - courier order id:1b9a920d-2880-44a3-abba-20903f2690d6 name:Pastrami Sandwich prepttime:3
+INFO - current_courier_wait_time: 666736.6490000001ms 	 average_courier_wait_time 245263.9484787234ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 23937.436042553192ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:4c25f887-03cc-4dcd-9945-6a8102c5ef22 name:Pickles prepttime:13
+INFO - order is id:c5ec5a4b-818e-4478-8956-019259be4168 name:Arugula prepttime:13
+INFO - courier order id:c5ec5a4b-818e-4478-8956-019259be4168 name:Arugula prepttime:13
+INFO - current_courier_wait_time: 676755.88ms 	 average_courier_wait_time 249805.9688105263ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 23685.463031578947ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:7f2381be-5ab9-4385-a7a2-4a940a22e134 name:Chicken prepttime:14
+INFO - order is id:4c25f887-03cc-4dcd-9945-6a8102c5ef22 name:Pickles prepttime:13
+INFO - courier order id:4c25f887-03cc-4dcd-9945-6a8102c5ef22 name:Pickles prepttime:13
+INFO - current_courier_wait_time: 738766.011ms 	 average_courier_wait_time 254899.30258333334ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 23438.739458333333ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:75bef98f-89ba-4359-b738-b3184688ca7a name:Cookie Dough prepttime:12
+INFO - order is id:7f2381be-5ab9-4385-a7a2-4a940a22e134 name:Chicken prepttime:14
+INFO - courier order id:7f2381be-5ab9-4385-a7a2-4a940a22e134 name:Chicken prepttime:14
+INFO - current_courier_wait_time: 710783.499ms 	 average_courier_wait_time 259599.13965979381ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 23197.102969072166ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:60db864b-8270-43ef-9d91-985707390765 name:Hamburger prepttime:13
+INFO - order is id:75bef98f-89ba-4359-b738-b3184688ca7a name:Cookie Dough prepttime:12
+INFO - courier order id:75bef98f-89ba-4359-b738-b3184688ca7a name:Cookie Dough prepttime:12
+INFO - current_courier_wait_time: 687793.002ms 	 average_courier_wait_time 263968.4647857143ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 22960.397836734694ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:22f532ca-dfc8-448a-9e04-7dcfa01a175e name:French Fries prepttime:9
+INFO - order is id:60db864b-8270-43ef-9d91-985707390765 name:Hamburger prepttime:13
+INFO - courier order id:60db864b-8270-43ef-9d91-985707390765 name:Hamburger prepttime:13
+INFO - current_courier_wait_time: 728813.36ms 	 average_courier_wait_time 268663.86776767677ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 22728.474626262625ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:a0d76390-3e71-440e-a742-20c36a67fa9a name:Ice prepttime:10
+INFO - order is id:22f532ca-dfc8-448a-9e04-7dcfa01a175e name:French Fries prepttime:9
+INFO - courier order id:22f532ca-dfc8-448a-9e04-7dcfa01a175e name:French Fries prepttime:9
+INFO - current_courier_wait_time: 791823.166ms 	 average_courier_wait_time 273895.46074999997ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 22501.189879999998ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:020ad68f-da34-4eca-ae7e-3b67e80a299c name:Carne Asada prepttime:8
+INFO - order is id:a0d76390-3e71-440e-a742-20c36a67fa9a name:Ice prepttime:10
+INFO - courier order id:a0d76390-3e71-440e-a742-20c36a67fa9a name:Ice prepttime:10
+INFO - current_courier_wait_time: 752842.994ms 	 average_courier_wait_time 278637.51553465344ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 22278.405821782177ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:2aab593e-1d1d-4a65-a582-2999f80c3dee name:Sherbet prepttime:3
+INFO - order is id:020ad68f-da34-4eca-ae7e-3b67e80a299c name:Carne Asada prepttime:8
+INFO - courier order id:020ad68f-da34-4eca-ae7e-3b67e80a299c name:Carne Asada prepttime:8
+INFO - current_courier_wait_time: 765853.97ms 	 average_courier_wait_time 283414.14744117646ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 22059.990078431372ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:3447acdb-475a-400c-91e0-9724d2043e27 name:Orange Sorbet prepttime:14
+INFO - order is id:2aab593e-1d1d-4a65-a582-2999f80c3dee name:Sherbet prepttime:3
+INFO - courier order id:2aab593e-1d1d-4a65-a582-2999f80c3dee name:Sherbet prepttime:3
+INFO - current_courier_wait_time: 800874.958ms 	 average_courier_wait_time 288438.0388058252ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 21845.81541747573ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:f6e68da8-9909-431e-bf1b-88367677a03e name:Frosty prepttime:10
+INFO - order is id:3447acdb-475a-400c-91e0-9724d2043e27 name:Orange Sorbet prepttime:14
+INFO - courier order id:3447acdb-475a-400c-91e0-9724d2043e27 name:Orange Sorbet prepttime:14
+INFO - current_courier_wait_time: 806884.684ms 	 average_courier_wait_time 293423.10270192305ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 21635.7595ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:bcd22756-b3ac-473b-93fa-a19cf941bc40 name:Fresh Bread prepttime:5
+INFO - order is id:f6e68da8-9909-431e-bf1b-88367677a03e name:Frosty prepttime:10
+INFO - courier order id:f6e68da8-9909-431e-bf1b-88367677a03e name:Frosty prepttime:10
+INFO - current_courier_wait_time: 826905.444ms 	 average_courier_wait_time 298503.8869047619ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 21429.704647619048ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:506a5c01-b06b-4af8-a1f2-913f9ae01078 name:Burrito prepttime:9
+INFO - order is id:bcd22756-b3ac-473b-93fa-a19cf941bc40 name:Fresh Bread prepttime:5
+INFO - courier order id:bcd22756-b3ac-473b-93fa-a19cf941bc40 name:Fresh Bread prepttime:5
+INFO - current_courier_wait_time: 805916.136ms 	 average_courier_wait_time 303290.79491509433ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 21227.53762264151ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:10ea72c1-b538-4eb8-b260-f58775481a0b name:Icy prepttime:9
+INFO - order is id:506a5c01-b06b-4af8-a1f2-913f9ae01078 name:Burrito prepttime:9
+INFO - courier order id:506a5c01-b06b-4af8-a1f2-913f9ae01078 name:Burrito prepttime:9
+INFO - current_courier_wait_time: 850935.5530000001ms 	 average_courier_wait_time 308408.97022429906ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 21029.14942056075ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:5e9cb832-6a0a-49fa-8799-8d744b499fce name:Push Pop prepttime:7
+INFO - order is id:10ea72c1-b538-4eb8-b260-f58775481a0b name:Icy prepttime:9
+INFO - courier order id:10ea72c1-b538-4eb8-b260-f58775481a0b name:Icy prepttime:9
+INFO - current_courier_wait_time: 796945.728ms 	 average_courier_wait_time 312932.45872222225ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 20834.435074074074ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:a7d778ff-9711-4d3c-b370-6052965f64c0 name:Pasta prepttime:7
+INFO - order is id:5e9cb832-6a0a-49fa-8799-8d744b499fce name:Push Pop prepttime:7
+INFO - courier order id:5e9cb832-6a0a-49fa-8799-8d744b499fce name:Push Pop prepttime:7
+INFO - current_courier_wait_time: 798963.656ms 	 average_courier_wait_time 317391.46053211007ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 20643.293467889907ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:40990373-5eac-4e15-9634-450886fe3374 name:Chicken Nuggets prepttime:10
+INFO - order is id:a7d778ff-9711-4d3c-b370-6052965f64c0 name:Pasta prepttime:7
+INFO - courier order id:a7d778ff-9711-4d3c-b370-6052965f64c0 name:Pasta prepttime:7
+INFO - current_courier_wait_time: 862974.651ms 	 average_courier_wait_time 322351.3077181818ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 20455.627163636364ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:3ea0971e-2478-4545-b814-a857fb294a9d name:Ice Cream Sandwich prepttime:11
+INFO - order is id:40990373-5eac-4e15-9634-450886fe3374 name:Chicken Nuggets prepttime:10
+INFO - courier order id:40990373-5eac-4e15-9634-450886fe3374 name:Chicken Nuggets prepttime:10
+INFO - current_courier_wait_time: 824991.6849999999ms 	 average_courier_wait_time 326879.5994054054ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 20271.342234234235ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:33bcf189-ba71-48ab-a2d5-75c18d180269 name:Taco prepttime:10
+INFO - order is id:3ea0971e-2478-4545-b814-a857fb294a9d name:Ice Cream Sandwich prepttime:11
+INFO - courier order id:3ea0971e-2478-4545-b814-a857fb294a9d name:Ice Cream Sandwich prepttime:11
+INFO - current_courier_wait_time: 878002.172ms 	 average_courier_wait_time 331800.3366607143ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 20090.348107142858ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:22fc8ae6-74f7-467f-8735-774d579a2ae0 name:Tomato Soup prepttime:8
+INFO - order is id:33bcf189-ba71-48ab-a2d5-75c18d180269 name:Taco prepttime:10
+INFO - courier order id:33bcf189-ba71-48ab-a2d5-75c18d180269 name:Taco prepttime:10
+INFO - current_courier_wait_time: 907022.754ms 	 average_courier_wait_time 336890.8005309735ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 19912.557415929205ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:19de820c-4691-420c-ad67-95ec7f5abc2d name:Vanilla Ice Cream prepttime:3
+INFO - order is id:22fc8ae6-74f7-467f-8735-774d579a2ae0 name:Tomato Soup prepttime:8
+INFO - courier order id:22fc8ae6-74f7-467f-8735-774d579a2ae0 name:Tomato Soup prepttime:8
+INFO - current_courier_wait_time: 890030.271ms 	 average_courier_wait_time 341742.9011491228ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 19737.885859649123ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:3b62609c-38f2-499e-a9b1-c3604dad425d name:Poppers prepttime:5
+INFO - order is id:19de820c-4691-420c-ad67-95ec7f5abc2d name:Vanilla Ice Cream prepttime:3
+INFO - courier order id:19de820c-4691-420c-ad67-95ec7f5abc2d name:Vanilla Ice Cream prepttime:3
+INFO - current_courier_wait_time: 849048.133ms 	 average_courier_wait_time 346154.25099130435ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 19566.252069565217ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:df79a7e4-d3f9-450c-b2e3-316fb462db29 name:Popsicle prepttime:5
+INFO - order is id:3b62609c-38f2-499e-a9b1-c3604dad425d name:Poppers prepttime:5
+INFO - courier order id:3b62609c-38f2-499e-a9b1-c3604dad425d name:Poppers prepttime:5
+INFO - current_courier_wait_time: 881059.616ms 	 average_courier_wait_time 350765.50413793104ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 19397.57748275862ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:d5fbbee2-09a7-459e-9621-33a66cdbf3ab name:Strawberries prepttime:10
+INFO - order is id:df79a7e4-d3f9-450c-b2e3-316fb462db29 name:Popsicle prepttime:5
+INFO - courier order id:df79a7e4-d3f9-450c-b2e3-316fb462db29 name:Popsicle prepttime:5
+INFO - current_courier_wait_time: 943078.953ms 	 average_courier_wait_time 355828.0122478632ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 19231.78622222222ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:68037649-56cd-4f0f-90fd-6e6ccbf61b37 name:Cheese Pizza prepttime:13
+INFO - order is id:d5fbbee2-09a7-459e-9621-33a66cdbf3ab name:Strawberries prepttime:10
+INFO - courier order id:d5fbbee2-09a7-459e-9621-33a66cdbf3ab name:Strawberries prepttime:10
+INFO - current_courier_wait_time: 895089.6ms 	 average_courier_wait_time 360398.02570338984ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 19068.804983050846ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:5bd1e697-10b2-48cf-83c4-033eea97bfb2 name:Pressed Juice prepttime:13
+INFO - order is id:68037649-56cd-4f0f-90fd-6e6ccbf61b37 name:Cheese Pizza prepttime:13
+INFO - courier order id:68037649-56cd-4f0f-90fd-6e6ccbf61b37 name:Cheese Pizza prepttime:13
+INFO - current_courier_wait_time: 893110.932ms 	 average_courier_wait_time 364874.60474789917ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 18908.562924369748ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:228ec414-19ca-41e4-8d6c-bd2b0662bfa3 name:Coconut prepttime:13
+INFO - order is id:5bd1e697-10b2-48cf-83c4-033eea97bfb2 name:Pressed Juice prepttime:13
+INFO - courier order id:5bd1e697-10b2-48cf-83c4-033eea97bfb2 name:Pressed Juice prepttime:13
+INFO - current_courier_wait_time: 920128.8389999999ms 	 average_courier_wait_time 369501.72336666664ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 18750.991566666667ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:b1315bfb-4528-4ae2-b6ed-adb03a25b94a name:Onion Rings prepttime:6
+INFO - order is id:228ec414-19ca-41e4-8d6c-bd2b0662bfa3 name:Coconut prepttime:13
+INFO - courier order id:228ec414-19ca-41e4-8d6c-bd2b0662bfa3 name:Coconut prepttime:13
+INFO - current_courier_wait_time: 943138.685ms 	 average_courier_wait_time 374242.5247024793ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 18596.024694214877ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:eafcb22b-0f68-4773-80ba-f163b191578f name:Fish Tacos prepttime:13
+INFO - order is id:b1315bfb-4528-4ae2-b6ed-adb03a25b94a name:Onion Rings prepttime:6
+INFO - courier order id:b1315bfb-4528-4ae2-b6ed-adb03a25b94a name:Onion Rings prepttime:6
+INFO - current_courier_wait_time: 964157.6830000001ms 	 average_courier_wait_time 379077.894852459ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 18443.598262295083ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:b25914fa-c5b0-4aa6-a0f5-fcc76203bba5 name:Pot Stickers prepttime:11
+INFO - order is id:eafcb22b-0f68-4773-80ba-f163b191578f name:Fish Tacos prepttime:13
+INFO - courier order id:eafcb22b-0f68-4773-80ba-f163b191578f name:Fish Tacos prepttime:13
+INFO - current_courier_wait_time: 942168.4709999999ms 	 average_courier_wait_time 383655.86701626016ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 18293.650308943088ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:03267ca9-47fd-4d16-bba7-a650cc7660b6 name:Kombucha prepttime:4
+INFO - order is id:b25914fa-c5b0-4aa6-a0f5-fcc76203bba5 name:Pot Stickers prepttime:11
+INFO - courier order id:b25914fa-c5b0-4aa6-a0f5-fcc76203bba5 name:Pot Stickers prepttime:11
+INFO - current_courier_wait_time: 1021187.3940000001ms 	 average_courier_wait_time 388797.2502983871ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 18146.12087096774ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:9012736d-777b-4f5b-a12d-982e302fefa1 name:Mixed Greens prepttime:3
+INFO - order is id:03267ca9-47fd-4d16-bba7-a650cc7660b6 name:Kombucha prepttime:4
+INFO - courier order id:03267ca9-47fd-4d16-bba7-a650cc7660b6 name:Kombucha prepttime:4
+INFO - current_courier_wait_time: 1034196.079ms 	 average_courier_wait_time 393960.44092799997ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 18000.951904ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:f21bf58b-e23b-491f-a285-d70cb21cc36f name:Sushi prepttime:3
+INFO - order is id:9012736d-777b-4f5b-a12d-982e302fefa1 name:Mixed Greens prepttime:3
+INFO - courier order id:9012736d-777b-4f5b-a12d-982e302fefa1 name:Mixed Greens prepttime:3
+INFO - current_courier_wait_time: 968214.788ms 	 average_courier_wait_time 398518.0151111111ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 17858.087206349206ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:057bc043-5f22-4169-9711-c6e2488b35f7 name:Apples prepttime:12
+INFO - order is id:f21bf58b-e23b-491f-a285-d70cb21cc36f name:Sushi prepttime:3
+INFO - courier order id:f21bf58b-e23b-491f-a285-d70cb21cc36f name:Sushi prepttime:3
+INFO - current_courier_wait_time: 1011223.347ms 	 average_courier_wait_time 403342.46654330706ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 17717.472346456692ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:7f682ade-8375-4ef4-aa9b-45440f361268 name:Kebab prepttime:6
+INFO - order is id:057bc043-5f22-4169-9711-c6e2488b35f7 name:Apples prepttime:12
+INFO - courier order id:057bc043-5f22-4169-9711-c6e2488b35f7 name:Apples prepttime:12
+INFO - current_courier_wait_time: 986237.568ms 	 average_courier_wait_time 407896.3345234375ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 17579.05459375ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:0d841704-92a0-44e1-aaf8-02a8ee920775 name:Mac & Cheese prepttime:4
+INFO - order is id:7f682ade-8375-4ef4-aa9b-45440f361268 name:Kebab prepttime:6
+INFO - courier order id:7f682ade-8375-4ef4-aa9b-45440f361268 name:Kebab prepttime:6
+INFO - current_courier_wait_time: 1003247.815ms 	 average_courier_wait_time 412511.46227906976ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 17442.78285271318ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:7f89b973-d4fd-4d6e-a279-afc2db6b3304 name:Corn Dog prepttime:11
+INFO - order is id:0d841704-92a0-44e1-aaf8-02a8ee920775 name:Mac & Cheese prepttime:4
+INFO - courier order id:0d841704-92a0-44e1-aaf8-02a8ee920775 name:Mac & Cheese prepttime:4
+INFO - current_courier_wait_time: 1050265.813ms 	 average_courier_wait_time 417417.26497692306ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 17308.6076ms
+INFO - ****************************************************************************************************
+INFO - cooking order:id:4f304b59-6634-4558-a128-a8ce12b1f818 name:Pistachio Ice Cream prepttime:3
+INFO - order is id:7f89b973-d4fd-4d6e-a279-afc2db6b3304 name:Corn Dog prepttime:11
+INFO - courier order id:7f89b973-d4fd-4d6e-a279-afc2db6b3304 name:Corn Dog prepttime:11
+INFO - current_courier_wait_time: 980275.603ms 	 average_courier_wait_time 421713.8935114504ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 17176.48082442748ms
+INFO - ****************************************************************************************************
+INFO - order is id:4f304b59-6634-4558-a128-a8ce12b1f818 name:Pistachio Ice Cream prepttime:3
+INFO - courier order id:4f304b59-6634-4558-a128-a8ce12b1f818 name:Pistachio Ice Cream prepttime:3
+INFO - current_courier_wait_time: 984288.899ms 	 average_courier_wait_time 425975.8253712121ms
+INFO - current_order_wait_time: 0.0ms 	 average_order_wait_time 17046.355969696968ms
+INFO - ****************************************************************************************************

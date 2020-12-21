@@ -4,6 +4,9 @@ import threading
 import logging
 logger = logging.getLogger(__name__)
 
+#Cook accepts delivery queue and cooking queue as args, reads cooking queue and preps the order and throw
+#in delivery queue
+
 
 class Cook(threading.Thread):
 
